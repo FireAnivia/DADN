@@ -4,3 +4,4 @@ adafruit-io
 scikit-learn
 numpy
 gunicorn
+setuptools
