@@ -14,7 +14,7 @@ CORS(app)
 # ⚠️ ĐIỀN KEY MỚI CỦA BẠN VÀO ĐÂY NHÉ
 # ==========================================================
 AIO_USERNAME = "2213671"
-AIO_KEY = "aio_pDkB162i2GzD2BAOodNjH8VkC7ul" 
+AIO_KEY = "aio_aEjy55aEiKQuPBBZJk2cLOoBdPMB" 
 
 class AdafruitManager:
     _instance = None
